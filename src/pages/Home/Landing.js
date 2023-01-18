@@ -3,11 +3,11 @@ import bucketGirl from '../../assets/image/bucketgirl.png'
 const Landing = () => {
     return (
         <>
-            <div class="hero h-screen lg:h-[60vh] bg-orange-100 mt-16">
+            <div class="hero h-screen lg:h-[60vh] bg-accent mt-16">
                 <div class="hero-content flex-col lg:flex-row">
 
                     <div data-aos="fade-right">
-                        <h1  class="text-5xl font-bold">Professional Cleaning Service</h1>
+                        <h1 class="text-5xl font-bold">Professional Cleaning Service</h1>
                         <p class="py-6 max-w-xl">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
                         <button class="btn btn-primary">Get Started</button>
                     </div>
